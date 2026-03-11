@@ -1,0 +1,5 @@
+batch da30
+ 
+git status :- given information about current git status
+git add filename :- add single file to git local memory
+git add . :- adds all file to git local memory
